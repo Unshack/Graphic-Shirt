@@ -115,8 +115,8 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Gino Loamlma - ngayuyalamlam@gmail.com
+marckoDev - marckfriencecoto30@gmail.com
 
-Setup the server
+# Setup the server
 
-Project Link: https://github.com/Reavampop/Mern-Ecommerce.git
+# Project Link: https://github.com/Reavampop/Mern-Ecommerce.git

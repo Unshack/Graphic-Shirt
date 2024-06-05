@@ -119,4 +119,4 @@ marckoDev - marckfriencecoto30@gmail.com
 
 # Setup the server
 
-# Project Link: https://github.com/Reavampop/Mern-Ecommerce.git
+# Project Link: https://github.com/Unshack/Graphic-Shirt
